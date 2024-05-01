@@ -1,0 +1,15 @@
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.AssemblyInfoInputs.cache
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.AssemblyInfo.cs
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.csproj.CoreCompileInputs.cache
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.sourcelink.json
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\bin\Debug\net8.0\practiceCode.exe
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\bin\Debug\net8.0\practiceCode.deps.json
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\bin\Debug\net8.0\practiceCode.runtimeconfig.json
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\bin\Debug\net8.0\practiceCode.dll
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\bin\Debug\net8.0\practiceCode.pdb
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.dll
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\refint\practiceCode.dll
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.pdb
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\practiceCode.genruntimeconfig.cache
+D:\Self Study Zone\03_Workspace\C#\01_Console Based C#\practiceCode\obj\Debug\net8.0\ref\practiceCode.dll
