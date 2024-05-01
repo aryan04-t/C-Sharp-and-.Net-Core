@@ -1,0 +1,15 @@
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\bin\Debug\net8.0\1stProject.exe
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\bin\Debug\net8.0\1stProject.deps.json
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\bin\Debug\net8.0\1stProject.runtimeconfig.json
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\bin\Debug\net8.0\1stProject.dll
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\bin\Debug\net8.0\1stProject.pdb
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.AssemblyInfoInputs.cache
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.AssemblyInfo.cs
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.csproj.CoreCompileInputs.cache
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.sourcelink.json
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.dll
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\refint\1stProject.dll
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.pdb
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\1stProject.genruntimeconfig.cache
+D:\Self Study Zone\03_Workspace\C#\00_DotNet Core\00_Introduction to DotNet\1stProject\obj\Debug\net8.0\ref\1stProject.dll

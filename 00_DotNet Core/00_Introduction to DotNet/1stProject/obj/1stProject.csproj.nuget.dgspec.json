@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\01_DotNet CLI\\newWebProject\\newWebProject.csproj": {}
+    "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj": {}
   },
   "projects": {
-    "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\01_DotNet CLI\\newWebProject\\newWebProject.csproj": {
+    "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\01_DotNet CLI\\newWebProject\\newWebProject.csproj",
-        "projectName": "newWebProject",
-        "projectPath": "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\01_DotNet CLI\\newWebProject\\newWebProject.csproj",
+        "projectUniqueName": "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj",
+        "projectName": "1stProject",
+        "projectPath": "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj",
         "packagesPath": "C:\\Users\\Aryan\\.nuget\\packages\\",
-        "outputPath": "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\01_DotNet CLI\\newWebProject\\obj\\",
+        "outputPath": "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,9 +61,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

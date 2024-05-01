@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj",
+      "projectUniqueName": "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj",
       "projectName": "1stProject",
-      "projectPath": "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj",
+      "projectPath": "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\1stProject.csproj",
       "packagesPath": "C:\\Users\\Aryan\\.nuget\\packages\\",
-      "outputPath": "D:\\Self Study Zone\\03_Workspace\\C#\\.Net Core\\00_Introduction to DotNet\\1stProject\\obj\\",
+      "outputPath": "D:\\Self Study Zone\\03_Workspace\\C#\\00_DotNet Core\\00_Introduction to DotNet\\1stProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
