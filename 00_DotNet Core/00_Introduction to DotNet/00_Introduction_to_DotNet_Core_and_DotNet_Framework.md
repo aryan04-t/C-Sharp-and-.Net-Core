@@ -5,6 +5,8 @@ https://www.aceinfoway.com/blog/dotnet-maze-comparison
 
 - .Net Core is Successor of .Net Framework, and .Net Core is Cross-Platform, but .Net Framework just supports Windows 
 
+- .Net Framework was launched on 13th February 2002 and .Net Core was released on 27th June 2016 
+
 - .Net Core is open source, and it is highly performant and scalable than .Net Framework because of its new modular design 
 
 - .Net Core can be used to make mobile app, Windows app (A windows app is a app which is served via Microsoft store), cloud app, IoT app, microservices app, and many other types of applications. 
